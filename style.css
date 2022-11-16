@@ -1,0 +1,16 @@
+#container {
+
+    display: grid;
+    gap: 2px;
+    grid-template-columns: repeat(16, 1fr);
+
+
+}
+
+
+.square {
+
+    height: 50px;
+    width: 50px;
+    background-color: white;
+}
